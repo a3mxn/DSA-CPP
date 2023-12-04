@@ -1,0 +1,10 @@
+    Node* aman = new Node(55);
+    // Node* aman = new Node(17);
+    Node* add = aman;
+    print(add);
+    insertAtTail(aman,5);
+    print(add);
+    insertAtTail(aman,33);
+    print(add);
+    insertAtAnyPosition(aman,3,6969);
+    print(add);
