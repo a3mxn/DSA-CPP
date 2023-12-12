@@ -1,1 +1,0 @@
-{"name":"Local: 44L Linked List","url":"d:\\Workplace\\DSA\\44L Linked List.cpp","tests":[{"id":1693665234848,"input":"","output":"7  L\n0\nhi\n7 \n7 45 \n7 45 33 \n7 45 6996 33 \n7 45 6996 33 \n45 6996 33 \n45 6996 33 \nend"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Workplace\\DSA\\44L Linked List.cpp","group":"local","local":true}
